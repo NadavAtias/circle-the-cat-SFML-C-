@@ -21,7 +21,7 @@ const int  FRAME_LIMIT    =      18;
 
 enum GameButtons
 {
-	Undo, Reset
+	Undo,Reset
 };
 
 //--------------------------- Class Section --------------------------
